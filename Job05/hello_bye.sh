@@ -1,3 +1,5 @@
+#!/bin/bash
+
 x="$1"
 if [ "$x" = "Hello" ]; then
 	echo "Bonjour, je suis un script!"

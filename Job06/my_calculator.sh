@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ope=$2
 
 if [ $ope = "x" ]; then
